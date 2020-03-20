@@ -1,2 +1,2 @@
-include ':app', ':volley'
-rootProject.name='Tp1Ex5'
+include ':app'
+rootProject.name='Tp1Ex7'
